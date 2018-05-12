@@ -1,0 +1,30 @@
+_repo: Flirts_35073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vasconcellos, Henrique de
+    birthdate: 1876
+    deathdate: 1924
+    gutenberg_agent_id: '37444'
+    url: http://www.gutenberg.org/2009/agents/37444
+description: ''
+gutenberg_issued: '2011-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35073'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+tableOfContents: A escola de flirt -- Flirts -- Logica -- Romantico -- A Bisantina
+  -- Má-lingua -- A rainha de Sabá -- Chiara Liliam -- A Marcia -- O cego -- A gloria
+  -- A festa de maio -- Tibidabo -- A princeza perdida -- Noite de festa -- Clara
+  -- Idilio triste -- Perfil d'aventureiro -- Fumo.
+title: Flirts
+url: http://www.gutenberg.org/ebooks/35073
